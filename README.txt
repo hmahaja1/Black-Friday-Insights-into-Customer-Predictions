@@ -9,7 +9,7 @@ The files can be desribed as follows:
   BlackFriday.ipynp:- Jupyter Notebook file containing the source code.
   Project Report:- Report Document consisting of analysis and conclusions obtained from the project.
   
-Developed as a part of Semester project for CS-580L Introduction to Machine Learning.
+Developed as a part of Semester project for CS-580L Introduction to Machine Learning - Binghamton University, State University of New York.
 
 Team Members:
 Hrishikesh Mahajan
