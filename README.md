@@ -8,7 +8,9 @@ The files can be desribed as follows:
   test.csv:- CSV file used to test the model
   BlackFriday.ipynp:- Jupyter Notebook file containing the source code.
   Project Report:- Report Document consisting of analysis and conclusions obtained from the project.
+  
 Developed as a part of Semester project for CS-580L Introduction to Machine Learning.
+
 Team Members:
 Hrishikesh Mahajan
 Jainil Parikh
